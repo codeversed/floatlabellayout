@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="account_password_hint">account password hint</string>
+    <string name="account_username_hint">account username hint</string>
+</resources>
